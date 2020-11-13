@@ -8,4 +8,7 @@
 
 2.Machine-Learning： https://space.bilibili.com/24665358/channel/detail?cid=132353
 讲的也不错，可以补充1
+3. 白板学习 https://www.bilibili.com/video/BV1aE411o7qd
 
+# 第二阶段 ：机器学习 西瓜书
+1. 机器学习入门  https://www.bilibili.com/video/BV1xa411A77Z
